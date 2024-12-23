@@ -1,5 +1,13 @@
 # ECE408/CS483 Final Project
 
+## Caution: Do Not Copy!
+
+Do NOT copy this code without proper citation. Doing this is a violation of academic integrity.
+
+## Academic Integrity
+
+Please review the University of Illinois Student Code before starting, particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](http://studentcode.illinois.edu/article1_part4_1-401.html).
+
 ## Introduction
 
 This is the skeleton code for the Fall 2023 ECE408 / CS483 course project.
